@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Venketaramana
-- 👀 I’m interested in Machine Vision & Robotics
+- 👀 I’m interested in Computer Vision & Robotics
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
